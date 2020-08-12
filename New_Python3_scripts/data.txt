@@ -1,0 +1,3 @@
+this is an example of a test file which we
+can reade using the python open and read 
+file
