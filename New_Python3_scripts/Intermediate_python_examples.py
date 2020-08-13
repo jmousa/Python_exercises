@@ -240,8 +240,6 @@
 # print (user1.first_name, user1.last_name)
 
 
-
-
 # class Person:
 #   def __init__(self, name, age):
 #     self.name = name
@@ -255,10 +253,8 @@
 # p1.myfunc()
 
 # print(p1.name)
-# print(p1.age) 
+# print(p1.age)
 # print(p1.x)
-
-
 
 
 # class Person:
@@ -271,7 +267,7 @@
 
 
 # x = Person("John", "Doe")
-# x.printname() 
+# x.printname()
 
 # class Student(Person):
 #   def __init__(self, fname, lname, year):
@@ -288,11 +284,6 @@
 
 
 # print(myfunc)
-
-
-
-
-
 
 
 # fininotic serioes
@@ -358,21 +349,4 @@
 #   print (ele)
 
 
-
-
-
-
-#print (myFile)
-
-  
-
-
-
-
-
-
-
-def
-
-
-
+print(myFile)
